@@ -6,14 +6,11 @@
 1.install jmeter
 
 ## output: For better understanding the sequence
-
-![better understand](https://github.com/Subrinaferdous/demo-transaction-api-jmeter/assets/171265716/ae67561a-9312-4c0e-b7f3-bbd69a6c93bb)
+![better understand](https://github.com/Subrinaferdous/demo-transaction-api-jmeter/assets/171265716/333a5ec0-71dd-4d55-a5de-2031baec2c48)
 
 ## CMD Report (Summary) :
-
-![summary report](https://github.com/Subrinaferdous/demo-transaction-api-jmeter/assets/171265716/72edc9bb-002d-45d6-94e2-679a9a1091f3)
-
+![summary report](https://github.com/Subrinaferdous/demo-transaction-api-jmeter/assets/171265716/606a5108-ce3f-45f4-a6dd-bd619df4f161)
 
 ## CMD Report (Statistics):
+![statistics report](https://github.com/Subrinaferdous/demo-transaction-api-jmeter/assets/171265716/041a7442-603c-47ac-a77c-5c8dd5d4def1)
 
-![statistics report](https://github.com/Subrinaferdous/demo-transaction-api-jmeter/assets/171265716/252b6387-bc5d-40a6-8e4c-0afa983cb136)
